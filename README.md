@@ -1,4 +1,3 @@
-# Suntory-Procurement-SOP
 <!DOCTYPE html>
 <html lang="en">
 <head>
